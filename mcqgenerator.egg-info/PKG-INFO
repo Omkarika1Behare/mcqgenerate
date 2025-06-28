@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: omkarika behare
+Author-email: sanabehare228@gmail.com
+Requires-Dist: ollama
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
