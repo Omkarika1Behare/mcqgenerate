@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: mcqgenerator
 Version: 0.0.1
 Author: omkarika behare
@@ -7,3 +7,6 @@ Requires-Dist: ollama
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
